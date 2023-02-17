@@ -20,3 +20,6 @@ public class PangramChecker {
 
   //Checks if a given sentence is a pangram (containing all letters of the alphabet)
 
+  return sentence.chars().map(Character::toLowerCase).filter(Character::isAlphabetic).distinct().count() == 26;
+
+  // more optimal map one liner
