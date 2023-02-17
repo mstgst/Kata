@@ -10,3 +10,8 @@ class Metro {
     return passengers;
 }
   }
+
+  //Determines how many passengers are on a bus given:
+  //The bus starts a route with 0 passengers
+  //The argument accepted is a list of int Arrays which contain two values
+  ///The first value in the array is the amount of passengers entering the bus, and the second is the amount exiting the bus

@@ -13,3 +13,5 @@ public class BitCounting {
 	}
 	
 }
+
+//Converts an integer arguent to binary and determines the number of bits 

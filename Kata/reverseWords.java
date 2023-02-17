@@ -29,5 +29,3 @@ import java.util.stream.Collectors;
     return reverseWord.trim();
   }
 }
-
-

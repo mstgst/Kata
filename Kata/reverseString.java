@@ -13,3 +13,5 @@ public class Kata
     return result;
   }
 }
+
+//Reverses a string
